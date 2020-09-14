@@ -4,3 +4,9 @@
 [submodule "src/probability-cheatsheet"]
 	path = src/probability-cheatsheet
 	url = https://github.com/Shivanshu-Gupta/probability-cheatsheet.git
+[submodule "src/stanford-cme-102-ordinary-differential-equations"]
+	path = src/stanford-cme-102-ordinary-differential-equations
+	url = https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations.git
+[submodule "src/stanford-cme-106-probability-and-statistics"]
+	path = src/stanford-cme-106-probability-and-statistics
+	url = https://github.com/shervinea/stanford-cme-106-probability-and-statistics.git
