@@ -1,0 +1,6 @@
+[submodule "src/pytorch-cheatsheet"]
+	path = src/pytorch-cheatsheet
+	url = https://github.com/Shivanshu-Gupta/pytorch-cheatsheet.git
+[submodule "src/probability-cheatsheet"]
+	path = src/probability-cheatsheet
+	url = https://github.com/Shivanshu-Gupta/probability-cheatsheet.git
