@@ -2,17 +2,16 @@
 
 A collection of Math, Machine Learning and programming cheatsheets useful for AI researchers/practitioners.
 
-- [Cheatsheets Collection](#cheatsheets-collection)
-  - [Math](#math)
-  - [NLP](#nlp)
-  - [Machine Learning](#machine-learning)
-  - [Computer Vision](#computer-vision)
-  - [Data Science](#data-science)
-    - [Data Wrangling](#data-wrangling)
-    - [Visualization](#visualization)
-  - [Programming](#programming)
-  - [Dev Tools](#dev-tools)
-  - [References](#references)
+- [Math](#math)
+- [NLP](#nlp)
+- [Machine Learning](#machine-learning)
+- [Computer Vision](#computer-vision)
+- [Data Science](#data-science)
+   - [Data Wrangling](#data-wrangling)
+   - [Visualization](#visualization)
+- [Programming](#programming)
+- [Dev Tools](#dev-tools)
+- [References](#references)
 
 ## Math
 
