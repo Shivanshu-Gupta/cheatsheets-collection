@@ -60,12 +60,12 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
 
 #### Data Wrangling
 
-7. [numpy](src/becoming-human-ai/splits/numpy-basics.pdf)
-8. [Pandas 1](cheatsheets/data-science/pandas-1.pdf)
-9. [Pandas 2](src/becoming-human-ai/splits/pandas.pdf)
-10. [Pandas 3](cheatsheets/data-science/pandas-3.pdf)
-11. [pyspark-rdd](src/becoming-human-ai/splits/pyspark-rdd-basics.pdf)
-12. [Scipy](src/becoming-human-ai/splits/scipy.pdf)
+1. [numpy](src/becoming-human-ai/splits/numpy-basics.pdf)
+2. [Pandas 1](cheatsheets/data-science/pandas-1.pdf)
+3. [Pandas 2](src/becoming-human-ai/splits/pandas.pdf)
+4. [Pandas 3](cheatsheets/data-science/pandas-3.pdf)
+5. [pyspark-rdd](src/becoming-human-ai/splits/pyspark-rdd-basics.pdf)
+6. [Scipy](src/becoming-human-ai/splits/scipy.pdf)
 
 #### Visualisation
 
