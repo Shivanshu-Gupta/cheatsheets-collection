@@ -66,7 +66,9 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
 
 ## Programming
 
-1. [Python Basics](src/becoming-human-ai/splits/python-basics.pdf)
+1. [Python](cheatsheets/programming/python/)
+   1. [Basics](src/becoming-human-ai/splits/python-basics.pdf)
+   2. [Conda]()
 2. [Latex](cheatsheets/programming/latex/)
    1. [Cheatsheet](cheatsheets/programming/latex/latex-cheatsheet.pdf)
    2. [Typesetting](cheatsheets/programming/latex/latex-typesetting.png)
@@ -78,9 +80,11 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
 
 1. [Anaconda](cheatsheets/dev-tools/anaconda/)
    1. [Anaconda](cheatsheets/dev-tools/anaconda/anaconda.pdf)
-   2. [Conda](cheatsheets/dev-tools/anaconda/conda.pdf)
-2. [Linux Commands](cheatsheets/dev-tools/linux-shell.jpg)
-3. [Vim](cheatsheets/dev-tools/vim.gif)
+   2. [Conda 1](cheatsheets/dev-tools/anaconda/conda-1.pdf)
+   3. [Conda 2](cheatsheets/dev-tools/anaconda/conda-2.pdf)
+2. [Git](cheatsheets/dev-tools/git.pdf)
+3. [Linux Commands](cheatsheets/dev-tools/linux-shell.jpg)
+4. [Vim](cheatsheets/dev-tools/vim.gif)
 
 ## References
 
