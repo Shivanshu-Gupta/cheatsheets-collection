@@ -12,8 +12,6 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
 - [Dev Tools](#dev-tools)
 - [References](#references)
 
-<!-- TOC -->autoauto- [Cheatsheets Collection](#cheatsheets-collection)auto    - [Math](#math)auto    - [AI](#ai)auto        - [NLP](#nlp)auto        - [Machine Learning](#machine-learning)auto        - [Computer Vision](#computer-vision)auto        - [Data Science](#data-science)auto            - [Data Wrangling](#data-wrangling)auto            - [Visualization](#visualization)auto    - [Programming](#programming)auto    - [Dev Tools](#dev-tools)auto    - [References](#references)autoauto<!-- /TOC -->
-
 ## Math
 
 1. [Big-O](src/becoming-human-ai/splits/big-O.pdf)
