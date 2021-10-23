@@ -4,10 +4,10 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
 
 - [Math](#math)
 - [AI](#ai)
-   - [NLP](#nlp)
-   - [Machine Learning](#machine-learning)
-   - [Computer Vision](#computer-vision)
-   - [Data Science](#data-science)
+  - [NLP](#nlp)
+  - [Machine Learning](#machine-learning)
+  - [Computer Vision](#computer-vision)
+  - [Data Science](#data-science)
 - [Programming](#programming)
 - [Dev Tools](#dev-tools)
 - [References](#references)
@@ -76,7 +76,6 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
 5. [Matplotlib 2](src/becoming-human-ai/splits/matplotlib.pdf)
 6. [Matplotlib 3](cheatsheets/data-science/matplotlib-3.pdf)
 7. [Seaborn](cheatsheets/data-science/seaborn.pdf)
-
 
 ## Programming
 
