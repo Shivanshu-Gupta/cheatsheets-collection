@@ -2,8 +2,16 @@
 
 A collection of Math, Machine Learning and programming cheatsheets useful for AI researchers/practitioners.
 
-[[toc]]
-
+- [Cheatsheets Collection](#cheatsheets-collection)
+  - [Math](#math)
+  - [AI](#ai)
+    - [NLP](#nlp)
+    - [Machine Learning](#machine-learning)
+    - [Computer Vision](#computer-vision)
+    - [Data Science](#data-science)
+  - [Programming](#programming)
+  - [Dev Tools](#dev-tools)
+  - [References](#references)
 
 ## Math
 
