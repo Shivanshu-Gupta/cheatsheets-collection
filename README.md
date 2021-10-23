@@ -79,13 +79,15 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
 
 ## Programming
 
-1. [Python](cheatsheets/programming/python/)
+1. [devhints.io](https://devhints.io)
+2. [Bash](devhints.io/bash)
+3. [Python](https://devhints.io/python)
    1. [Basics](src/becoming-human-ai/splits/python-basics.pdf)
    2. [pdb](cheatsheets/programming/python/pdb.pdf)
-2. [Latex](cheatsheets/programming/latex/)
+4. [Latex](cheatsheets/programming/latex/)
    1. [Cheatsheet](cheatsheets/programming/latex/latex-cheatsheet.pdf)
    2. [Typesetting](cheatsheets/programming/latex/latex-typesetting.png)
-3. [Documentation Tools](cheatsheets/programming/documentation/)
+5. [Documentation Tools](cheatsheets/programming/documentation/)
    1. [ReStructured Text](cheatsheets/programming/documentation/rst.png)
    2. [Sphinx](cheatsheets/programming/documentation/sphinx.png)
 
