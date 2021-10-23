@@ -49,17 +49,6 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
 
 ### Data Science
 
-1. [Numpy](src/becoming-human-ai/splits/numpy-basics.pdf)
-2. [Scipy](src/becoming-human-ai/splits/scipy.pdf)
-3. [Pandas](src/becoming-human-ai/splits/pandas.pdf)
-4. [PySpark RDD](src/becoming-human-ai/splits/pyspark-rdd-basics.pdf)
-5. [Bokeh](src/becoming-human-ai/splits/bokeh.pdf)
-6. [Dplyr & Tidyr](src/becoming-human-ai/splits/dplyr-tidyr.pdf)
-7. [Matplotlib](src/becoming-human-ai/splits/matplotlib.pdf)
-8. [ggplot2](src/becoming-human-ai/splits/ggplot2.pdf)
-
-
-
 1. [Bokeh](src/becoming-human-ai/splits/bokeh.pdf)
 2. [Dplyr & Tidyr](src/becoming-human-ai/splits/dplyr-tidyr.pdf)
 3. [ggplot2](src/becoming-human-ai/splits/ggplot2.pdf)
@@ -74,6 +63,7 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
 12. [scipy](src/becoming-human-ai/splits/scipy.pdf)
 13. [seaborn](cheatsheets/data-science/seaborn.pdf)
 
+## Programming
 
 1. [Python Basics](src/becoming-human-ai/splits/python-basics.pdf)
 2. [Latex](cheatsheets/programming/latex/)
