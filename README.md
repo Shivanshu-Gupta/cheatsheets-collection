@@ -22,7 +22,14 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
    4. [Mini Probability Cheatsheet](cheatsheets/math/probability/mini-cheatsheet.pdf)
 7. [Statistics](src/stanford-cme-106-probability-and-statistics/cheatsheet-statistics.pdf)
 
-## Machine Learning
+
+## AI
+
+### NLP
+
+1. [NLG Eval Metrics](cheatsheets/nlp/NLG-eval-metrics-untrained.png)
+
+### Machine Learning
 
 1. [Theory](cheatsheets/machine-learning/theory)
    1. [Overview](src/becoming-human-ai/splits/ml-overview.pdf)
@@ -36,7 +43,11 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
    4. [Keras](src/becoming-human-ai/splits/keras.pdf)
    5. [Azure ML Studio](src/becoming-human-ai/splits/azure-ml-studio.pdf)
 
-## Data Science
+### Computer Vision
+
+
+
+### Data Science
 
 1. [Numpy](src/becoming-human-ai/splits/numpy-basics.pdf)
 2. [Scipy](src/becoming-human-ai/splits/scipy.pdf)
@@ -47,7 +58,21 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
 7. [Matplotlib](src/becoming-human-ai/splits/matplotlib.pdf)
 8. [ggplot2](src/becoming-human-ai/splits/ggplot2.pdf)
 
-## Programming
+
+[bokeh](src/becoming-human-ai/splits/bokeh.pdf)
+[dplyr-tidyr](src/becoming-human-ai/splits/dplyr-tidyr.pdf)
+[ggplot2](src/becoming-human-ai/splits/ggplot2.pdf)
+[matplotlib-1](cheatsheets/data-science/matplotlib-1.pdf)
+[matplotlib-2](src/becoming-human-ai/splits/matplotlib.pdf)
+[matplotlib-3](cheatsheets/data-science/matplotlib-3.pdf)
+[numpy](src/becoming-human-ai/splits/numpy-basics.pdf)
+[pandas-1](cheatsheets/data-science/pandas-1.pdf)
+[pandas-2](src/becoming-human-ai/splits/pandas.pdf)
+[pandas-3](cheatsheets/data-science/pandas-3.pdf)
+[pyspark-rdd](src/becoming-human-ai/splits/pyspark-rdd-basics.pdf)
+[scipy](src/becoming-human-ai/splits/scipy.pdf)
+[seaborn](cheatsheets/data-science/seaborn.pdf)
+
 
 1. [Python Basics](src/becoming-human-ai/splits/python-basics.pdf)
 2. [Latex](cheatsheets/programming/latex/)
