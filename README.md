@@ -59,19 +59,20 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
 8. [ggplot2](src/becoming-human-ai/splits/ggplot2.pdf)
 
 
-[bokeh](src/becoming-human-ai/splits/bokeh.pdf)
-[dplyr-tidyr](src/becoming-human-ai/splits/dplyr-tidyr.pdf)
-[ggplot2](src/becoming-human-ai/splits/ggplot2.pdf)
-[matplotlib-1](cheatsheets/data-science/matplotlib-1.pdf)
-[matplotlib-2](src/becoming-human-ai/splits/matplotlib.pdf)
-[matplotlib-3](cheatsheets/data-science/matplotlib-3.pdf)
-[numpy](src/becoming-human-ai/splits/numpy-basics.pdf)
-[pandas-1](cheatsheets/data-science/pandas-1.pdf)
-[pandas-2](src/becoming-human-ai/splits/pandas.pdf)
-[pandas-3](cheatsheets/data-science/pandas-3.pdf)
-[pyspark-rdd](src/becoming-human-ai/splits/pyspark-rdd-basics.pdf)
-[scipy](src/becoming-human-ai/splits/scipy.pdf)
-[seaborn](cheatsheets/data-science/seaborn.pdf)
+
+1. [Bokeh](src/becoming-human-ai/splits/bokeh.pdf)
+2. [Dplyr & Tidyr](src/becoming-human-ai/splits/dplyr-tidyr.pdf)
+3. [ggplot2](src/becoming-human-ai/splits/ggplot2.pdf)
+4. [matplotlib-1](cheatsheets/data-science/matplotlib-1.pdf)
+5. [matplotlib-2](src/becoming-human-ai/splits/matplotlib.pdf)
+6. [matplotlib-3](cheatsheets/data-science/matplotlib-3.pdf)
+7. [numpy](src/becoming-human-ai/splits/numpy-basics.pdf)
+8. [pandas-1](cheatsheets/data-science/pandas-1.pdf)
+9. [pandas-2](src/becoming-human-ai/splits/pandas.pdf)
+10. [pandas-3](cheatsheets/data-science/pandas-3.pdf)
+11. [pyspark-rdd](src/becoming-human-ai/splits/pyspark-rdd-basics.pdf)
+12. [scipy](src/becoming-human-ai/splits/scipy.pdf)
+13. [seaborn](cheatsheets/data-science/seaborn.pdf)
 
 
 1. [Python Basics](src/becoming-human-ai/splits/python-basics.pdf)
