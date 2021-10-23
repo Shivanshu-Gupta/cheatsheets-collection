@@ -111,3 +111,4 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
 5. Cheatsheets for [CME 102: Ordinary Differential Equations for Engineers](https://stanford.edu/~shervine/teaching/cme-102/) by Afshine Amidi and Shervine Amidi.
 6. Cheatsheets for [CME 106: Introduction to Probability and Statistics for Engineers](https://stanford.edu/~shervine/teaching/cme-106/) by Afshine Amidi and Shervine Amidi.
 7. www.cheat-sheets.org
+8. devhints.io
