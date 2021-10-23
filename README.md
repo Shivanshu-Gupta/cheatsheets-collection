@@ -2,6 +2,9 @@
 
 A collection of Math, Machine Learning and programming cheatsheets useful for AI researchers/practitioners.
 
+[[toc]]
+
+
 ## Math
 
 1. [Big-O](src/becoming-human-ai/splits/big-O.pdf)
@@ -21,7 +24,6 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
    3. [Probability Distributions](cheatsheets/math/probability/distributions.pdf)
    4. [Mini Probability Cheatsheet](cheatsheets/math/probability/mini-cheatsheet.pdf)
 7. [Statistics](src/stanford-cme-106-probability-and-statistics/cheatsheet-statistics.pdf)
-
 
 ## AI
 
