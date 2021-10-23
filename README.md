@@ -67,7 +67,7 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
 5. [pyspark-rdd](src/becoming-human-ai/splits/pyspark-rdd-basics.pdf)
 6. [Scipy](src/becoming-human-ai/splits/scipy.pdf)
 
-#### Visualisation
+#### Visualization
 
 1. [Bokeh](src/becoming-human-ai/splits/bokeh.pdf)
 2. [Dplyr & Tidyr](src/becoming-human-ai/splits/dplyr-tidyr.pdf)
