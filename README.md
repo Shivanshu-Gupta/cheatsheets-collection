@@ -68,7 +68,7 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
 
 1. [Python](cheatsheets/programming/python/)
    1. [Basics](src/becoming-human-ai/splits/python-basics.pdf)
-   2. [Conda]()
+   2. [pdb](cheatsheets/programming/python/pdb.pdf)
 2. [Latex](cheatsheets/programming/latex/)
    1. [Cheatsheet](cheatsheets/programming/latex/latex-cheatsheet.pdf)
    2. [Typesetting](cheatsheets/programming/latex/latex-typesetting.png)
