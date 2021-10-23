@@ -36,9 +36,10 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
    2. [Neural Network Architectures](cheatsheets/machine-learning/)
       1. [Cheatsheet 1](src/becoming-human-ai/splits/neural-networks-architectures.pdf)
       2. [Cheatsheet 2](cheatsheets/machine-learning/theory/NN-architectures-2.png)
+   3.
 2. [Libraries](cheatsheets/machine-learning/libraries)
    1. [Scikit-Learn](src/becoming-human-ai/splits/scikit-learn.pdf)
-   2. [PyTorch](src/pytorch-cheatsheet/pytorch-cheatsheet-v2.pdf)
+   2. [PyTorch](https://github.com/Shivanshu-Gupta/pytorch-cheatsheet/blob/master/pytorch-cheatsheet-v2.pdf)
    3. [Tensorflow](src/becoming-human-ai/splits/tensorflow.pdf)
    4. [Keras](src/becoming-human-ai/splits/keras.pdf)
    5. [Azure ML Studio](src/becoming-human-ai/splits/azure-ml-studio.pdf)
