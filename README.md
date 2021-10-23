@@ -105,10 +105,10 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
 ## References
 
 1. [devhints.io](devhints.io)
-1. [Cheatsheets for AI](src/becoming-human-ai/cheatsheets-becoming-human.pdf) by [BecomingHuman.ai](BecomingHuman.ai).
-2. [10-page Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet) by [William Chen](http://wzchen.com), Joe Blitzstein and other contributors.
-3. [PyTorch Cheatsheet](https://pytorch.org/tutorials/beginner/ptcheat.html).
-4. [Latex Cheatsheet](https://wch.github.io/latexsheet/) by Winston Chang.
-5. Cheatsheets for [CME 102: Ordinary Differential Equations for Engineers](https://stanford.edu/~shervine/teaching/cme-102/) by Afshine Amidi and Shervine Amidi.
-6. Cheatsheets for [CME 106: Introduction to Probability and Statistics for Engineers](https://stanford.edu/~shervine/teaching/cme-106/) by Afshine Amidi and Shervine Amidi.
-7. www.cheat-sheets.org
+2. [Cheatsheets for AI](src/becoming-human-ai/cheatsheets-becoming-human.pdf) by [BecomingHuman.ai](BecomingHuman.ai).
+3. [10-page Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet) by [William Chen](http://wzchen.com), Joe Blitzstein and other contributors.
+4. [PyTorch Cheatsheet](https://pytorch.org/tutorials/beginner/ptcheat.html).
+5. [Latex Cheatsheet](https://wch.github.io/latexsheet/) by Winston Chang.
+6. Cheatsheets for [CME 102: Ordinary Differential Equations for Engineers](https://stanford.edu/~shervine/teaching/cme-102/) by Afshine Amidi and Shervine Amidi.
+7. Cheatsheets for [CME 106: Introduction to Probability and Statistics for Engineers](https://stanford.edu/~shervine/teaching/cme-106/) by Afshine Amidi and Shervine Amidi.
+8. www.cheat-sheets.org
