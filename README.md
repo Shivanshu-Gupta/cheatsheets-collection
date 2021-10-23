@@ -85,6 +85,7 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
 2. [Git](cheatsheets/dev-tools/git.pdf)
 3. [Linux Commands](cheatsheets/dev-tools/linux-shell.jpg)
 4. [Vim](cheatsheets/dev-tools/vim.gif)
+5. [VS Code](cheatsheets/dev-tools/vscode.pdf)
 
 ## References
 
