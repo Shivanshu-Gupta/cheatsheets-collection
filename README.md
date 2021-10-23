@@ -45,7 +45,7 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
 
 ### Computer Vision
 
-
+1. [Classical Computer Vision](cheatsheets/computer-vision.pdf)
 
 ### Data Science
 
