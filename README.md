@@ -104,7 +104,7 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
 
 ## References
 
-1. devhints.io
+1. [devhints.io](devhints.io)
 1. [Cheatsheets for AI](src/becoming-human-ai/cheatsheets-becoming-human.pdf) by [BecomingHuman.ai](BecomingHuman.ai).
 2. [10-page Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet) by [William Chen](http://wzchen.com), Joe Blitzstein and other contributors.
 3. [PyTorch Cheatsheet](https://pytorch.org/tutorials/beginner/ptcheat.html).
