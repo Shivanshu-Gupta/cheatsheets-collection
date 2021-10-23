@@ -69,8 +69,8 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
 9. [Pandas 2](src/becoming-human-ai/splits/pandas.pdf)
 10. [Pandas 3](cheatsheets/data-science/pandas-3.pdf)
 11. [pyspark-rdd](src/becoming-human-ai/splits/pyspark-rdd-basics.pdf)
-12. [scipy](src/becoming-human-ai/splits/scipy.pdf)
-13. [seaborn](cheatsheets/data-science/seaborn.pdf)
+12. [Scipy](src/becoming-human-ai/splits/scipy.pdf)
+13. [Seaborn](cheatsheets/data-science/seaborn.pdf)
 
 ## Programming
 
