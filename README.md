@@ -27,7 +27,7 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
    2. [Matrix Cookbook](cheatsheets/math/linear-algebra/matrixcookbook.pdf)
    3. [Matrix Derivatives](cheatsheets/math/linear-algebra/matrix-derivatives.pdf)
 6. [Probability](cheatsheets/math/probability/)
-   1. [10-page Probability Cheatsheet](src/probability-cheatsheet/probability_cheatsheet.pdf)
+   1. [10-page Probability Cheatsheet](https://github.com/Shivanshu-Gupta/probability-cheatsheet/blob/master/probability_cheatsheet.pdf)
    2. [Conjugate Priors](cheatsheets/math/probability/conjugate-priors.png)
    3. [Probability Distributions](cheatsheets/math/probability/distributions.pdf)
    4. [Mini Probability Cheatsheet](cheatsheets/math/probability/mini-cheatsheet.pdf)
@@ -101,6 +101,7 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
 3. [Linux Commands](cheatsheets/dev-tools/linux-shell.jpg)
 4. [Vim](cheatsheets/dev-tools/vim.gif)
 5. [VS Code](cheatsheets/dev-tools/vscode.pdf)
+6. [Slurm](dev-tools/slurm.pdf)
 
 ## References
 
