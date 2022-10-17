@@ -19,9 +19,9 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
 2. [Trigonometry](src/stanford-cme-102-ordinary-differential-equations/trigonometry.pdf)
 3. [Calculus](src/stanford-cme-102-ordinary-differential-equations/calculus.pdf)
 4. [Ordinary Differential Equations](cheatsheets/math/ordinary-differential-equations/)
-   1. [First-order ODEs](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/first-order-ode.pdf)
-   2. [Second-order ODEs](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/second-order-ode.pdf)
-   3. [ODE Applications](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/ode-applications.pdf)
+   1. [First-order ODEs](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/blob/master/first-order-ode.pdf)
+   2. [Second-order ODEs](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/blob/master/second-order-ode.pdf)
+   3. [ODE Applications](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations/blob/master/ode-applications.pdf)
 5. [Linear Algebra](cheatsheets/math/linear-algebra/)
    1. [Basics](src/stanford-cme-102-ordinary-differential-equations/linear-algebra.pdf)
    2. [Matrix Cookbook](cheatsheets/math/linear-algebra/matrixcookbook.pdf)
@@ -31,7 +31,7 @@ A collection of Math, Machine Learning and programming cheatsheets useful for AI
    2. [Conjugate Priors](cheatsheets/math/probability/conjugate-priors.png)
    3. [Probability Distributions](cheatsheets/math/probability/distributions.pdf)
    4. [Mini Probability Cheatsheet](cheatsheets/math/probability/mini-cheatsheet.pdf)
-7. [Statistics](https://github.com/shervinea/stanford-cme-106-probability-and-statistics/cheatsheet-statistics.pdf)
+7. [Statistics](https://github.com/shervinea/stanford-cme-106-probability-and-statistics/blob/master/cheatsheet-statistics.pdf)
 
 ## NLP
 
